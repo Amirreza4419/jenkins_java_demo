@@ -15,5 +15,6 @@ public class App {
         System.out.println("  ✓ Packaged in Docker");
         System.out.println("  ✓ Automated with Jenkins");
         System.out.println("================================");
+        System.out.println("Hello from Jenkins CI/CD Pipeline - VERSION 2!");
     }
 }
