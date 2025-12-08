@@ -13,6 +13,6 @@ public class App {
         System.out.println("  ✓ Automated with Jenkins");
         System.out.println("================================");
         System.out.println("Hello from Jenkins CI/CD Pipeline - VERSION 3!");
-        System.out.println("testesttestest");
+        System.out.println("testest");
     }
 }
