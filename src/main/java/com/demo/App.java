@@ -1,9 +1,6 @@
 package com.demo;
 
-/**
- * Simple Java Application for CI/CD Demo
- * This application demonstrates a basic Java program that can be built with Maven
- */
+
 public class App {
     public static void main(String[] args) {
         System.out.println("================================");
@@ -15,6 +12,7 @@ public class App {
         System.out.println("  ✓ Packaged in Docker");
         System.out.println("  ✓ Automated with Jenkins");
         System.out.println("================================");
-        System.out.println("Hello from Jenkins CI/CD Pipeline - VERSION 2!");
+        System.out.println("Hello from Jenkins CI/CD Pipeline - VERSION 3!");
+        System.out.println("testesttestest");
     }
 }
